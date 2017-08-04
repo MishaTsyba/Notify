@@ -1,2 +1,2 @@
 # Notify
-[template Notify](https://mishatsyba.github.io/Notify/)
+[template Notify](https://mishatsyba.github.io/template-Notify/)
